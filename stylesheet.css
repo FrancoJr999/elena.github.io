@@ -1,0 +1,17 @@
+header h1 {
+  text-align: center;
+  font-size: 100px;
+  color: aquamarine;
+}
+
+main {
+  text-align: center;
+}
+
+main img {
+  width: 800px;
+  height:500px;
+}
+ footer h3 {
+   float: right;
+ }
